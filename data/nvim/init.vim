@@ -40,7 +40,6 @@ Plug 'dense-analysis/ale'
 
 call plug#end()
 
-colorscheme dracula
 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tmuxline#enabled = 1

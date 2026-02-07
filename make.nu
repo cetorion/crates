@@ -1,3 +1,5 @@
+#!/usr/bin/env nu
+
 const cfg_path = (path self config.toml)
 const stp_path = (path self stamp.toml)
 
